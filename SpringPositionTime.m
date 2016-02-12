@@ -1,4 +1,8 @@
-% Linear and Non Linear Plots of Position of Spring versus Time
+% Alexandra Voinea av348@cornell.edu
+% MAE 2030 Dynamics, Spring 2016, Cornell University
+
+%---------------------------------------------------
+%Linear and Non Linear Plots of Position versus Time
 
 param.mass = 1.0;  % (kg)  mass of body
 param.gravity = 9.81;  % (m/s^2)  gravity accel.
@@ -72,4 +76,3 @@ legend('Linear', 'Non-Linear');
         dz = [ dx;ddx];
         
     end
-

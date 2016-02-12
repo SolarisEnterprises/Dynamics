@@ -1,4 +1,7 @@
-% Simple Harmonic Oscillator
+% Alexandra Voinea av348@cornell.edu
+% MAE 2030 Dynamics, Spring 2016, Cornell University
+
+%---------------------------------------------------
 
 param.accel = 1; %acceleration (m/s^2)
 param.mass = 0.5;  % (kg)  mass of body
@@ -64,3 +67,7 @@ title('Difference')
   
 
 end
+
+
+
+
